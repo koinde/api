@@ -99,7 +99,15 @@ Unauthorized Attempt
 
 "status":  "error",
 
-{"is_authenticated": false, "message": "Unauthorized attempt.2", "status": "error"}
+{
+
+"is_authenticated": false,
+
+"message": "Unauthorized attempt.2",
+
+"status": "error"
+
+}
 
 
 Rate limit: 5 second each request interval
