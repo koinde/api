@@ -25,6 +25,7 @@ Response-1
 {"is_authenticated": true, "message": "Your ad is updated successfuly.", "status": "success"}
 
 ##########################################
+
 Request-2
 {
   "ad-id": 1,
