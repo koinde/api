@@ -27,13 +27,9 @@ URL: https://www.koinde.com/api/v1/update-ad
 Request-1,
 
 {
-
-  "ad-id": 1,
-  
+  "ad-id": 1, 
   "price": 3568.458,
-  
   "status": "active",
-  
  }
  
 
