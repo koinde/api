@@ -1,13 +1,20 @@
 # api
 koinde.com api interface
 
+
 API Documents and Reference Scripts
 
+
 Method: POST
+
 Header: {
+
   "Content-Type"   : "application/json"
+  
   "Authorization"   : "your_api_key"
+  
 }
+
 
 Body: JSON
 
