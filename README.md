@@ -40,7 +40,16 @@ Request-1,
 
 Response-1
 
-{"is_authenticated": true, "message": "Your ad is updated successfuly.", "status": "success"}
+{
+
+"is_authenticated": true,
+
+"message": "Your ad is updated successfuly.",
+
+"status": "success"
+
+}
+
 
 
 ##########################################
