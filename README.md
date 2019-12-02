@@ -4,9 +4,10 @@ koinde.com api interface
 API Documents and Reference Scripts
 
 Method: Post
-Header:
+Header:(
   Content-Type   : application/json
   Authorization   : your_api_key
+)
 
 Body: JSON
 
