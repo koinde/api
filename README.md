@@ -19,7 +19,7 @@ Header: {
 Body: JSON
 
 
-1.Name Of Api: UPDATE ADVERTISEMENT
+Name of API: UPDATE ADVERTISEMENT
 
 
 URL: https://www.koinde.com/api/v1/update-ad
