@@ -1,5 +1,7 @@
-# api
-koinde.com api interface
+# api interface
+https://www.koinde.com 
+
+The OTC and orderbook hybrid exchange for bitcoin.
 
 
 API Documents and Reference Scripts
