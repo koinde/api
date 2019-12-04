@@ -1,4 +1,4 @@
-# api interface
+# API interface
 https://www.koinde.com 
 
 The OTC and orderbook hybrid exchange for bitcoin.
