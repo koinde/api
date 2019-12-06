@@ -1,10 +1,10 @@
 #python 2.7
 import requests,json
 
-#go to https://www.koinde.com/en/user-account/api-key/ create api key and paste below
-your_api_key = "e9960ac19f10a2b89993bf2e784246f099fd10"
+#go to https://www.koinde.com/user-account/api-key/ create api key and paste below
+your_api_key = "YOUR_API_KEY_HERE"
 
-# go to https://www.koinde.com/en/user-account/my-ads/ get your ad id number
+# go to https://www.koinde.com/user-account/my-ads/ get your ad id number
 your_ad_id = 23
 
 # new price
