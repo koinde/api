@@ -109,7 +109,6 @@ Unauthorized Attempt
 
 # Public endpoints
 
-ENDPOINT 1
 
 ASSETS   https://www.koinde.com/api/v1/assets
 
@@ -133,7 +132,6 @@ OUR RESPONSE
     }
 
 
-ENDPOINT 2
 
 TICKER   https://www.koinde.com/api/v1/ticker
 
@@ -155,8 +153,6 @@ OUR RESPONSE
       }
 
 
- 
-ENDPOINT 3
 
 ORDERBOOK  https://www.koinde.com/api/v1/orderbook/btc_try
 
@@ -178,13 +174,12 @@ OUR RESPONSE
     }
 
 
-ENDPOINT 4
-
 TRADES   https://www.koinde.com/api/v1/trades/btc_try/
 
 The trades endpoint is to return data on all recently completed trades for a given market pair.
  
 OUR RESPONSE
+
     [
       {
         "base_volume": 4710.1,
@@ -198,7 +193,7 @@ OUR RESPONSE
     ]  
 
 
-SUMMARY EDNPOINT https://www.koinde.com/api/v1/summary
+SUMMARY https://www.koinde.com/api/v1/summary
 
 OUR RESPONSE 
 
