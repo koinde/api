@@ -9,13 +9,7 @@ API Documents and Reference Scripts
 
 Method: POST
 
-    Header: {
-
-      "Content-Type"   : "application/json"
-
-      "Authorization"   : "your_api_key"
-
-    }
+    check sample-auth.py
 
 
 Body: JSON
